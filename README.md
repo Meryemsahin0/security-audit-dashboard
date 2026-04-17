@@ -1,0 +1,1 @@
+# Security Audit Panel - v4.0 \n React ve Tailwind CSS v4 ile geliştirilmiş, siber güvenlik denetim süreçlerini yöneten bir Dashboard projesi
